@@ -1,0 +1,8 @@
+type,first_name,last_name,company_name
+investor,Montgomery,Burns,"Springfield Syndicators"
+investor,Anthony,Stark,"Iron Investors"
+investor,William,Wonka,"Chocolate Ventures"
+advisor,Barry,Beenthere,NULL
+advisor,Cindy,Smartypants,NULL
+advisor,Mary,Moneybags,NULL
+advisor,Walter,White,NULL
