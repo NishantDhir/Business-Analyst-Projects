@@ -1,4 +1,4 @@
-# Data-Analyst-Projects
+# Business-Analyst-Projects
 <p align="center"
 
 Combined set of Csv's imported from MySQL Workbench.
