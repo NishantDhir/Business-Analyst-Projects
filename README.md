@@ -6,11 +6,11 @@ Combined set of Csv's imported from MySQL Workbench.
 ### What's included?
 ```bash
    # Datasets in Csv's / Script.
-   # Queries ran in MYSQL Workbench and Connecting it to Power BI for analysis, Python Web Scraping.
+   # Queries ran in MYSQL Workbench and Connecting it to Power BI for analysis.
 
 ### What's Covered 
 ``` bash
-  # Webscrapping Data in Python Libraries / Downloading Dataset from Kaggle / Github. 
+  # Downloading Dataset from Kaggle / Github / Maven Analytics / Codebasics. 
   # Loading Data into MYQL Workbench / PostGre SQL.
   # Connecting SQL Server with Power BI / Tableau.
   # Uploading Csv's in Data Visualization tool / performing statistical analysis.
