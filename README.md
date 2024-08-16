@@ -21,7 +21,12 @@ Combined set of Csv's imported from MySQL Workbench.
 2. E-Commerce Analysis
 3. Cricket Data Analysis 
 4. Covid Analysis
-5. Sales Analysis 
+5. Sales Analysis
+6. EV Product Launch
+7. Project Finance
+8. Marketing Analysis
+9. Product Analysis 
+10. Product Strategy in Banking
 
 ### What is Required?
 - Setting up Python and My SQL Workbench on Windows / Mac.
