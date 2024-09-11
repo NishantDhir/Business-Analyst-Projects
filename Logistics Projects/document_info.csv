@@ -1,0 +1,201 @@
+DocumentID,ShipmentID,DocumentType,IsDocumentApproved
+1,1,Customs Form,Yes
+2,2,Bill of Lading,No
+3,3,Customs Form,Yes
+4,4,Bill of Lading,Yes
+5,5,Customs Form,No
+6,6,Bill of Lading,No
+7,7,Customs Form,Yes
+8,8,Customs Form,Yes
+9,9,Invoice,Yes
+10,10,Invoice,No
+11,11,Customs Form,No
+12,12,Customs Form,Yes
+13,13,Bill of Lading,No
+14,14,Bill of Lading,No
+15,15,Invoice,No
+16,16,Bill of Lading,Yes
+17,17,Bill of Lading,No
+18,18,Invoice,No
+19,19,Invoice,Yes
+20,20,Bill of Lading,Yes
+21,21,Customs Form,Yes
+22,22,Bill of Lading,Yes
+23,23,Invoice,Yes
+24,24,Customs Form,Yes
+25,25,Bill of Lading,No
+26,26,Customs Form,No
+27,27,Bill of Lading,Yes
+28,28,Customs Form,Yes
+29,29,Invoice,Yes
+30,30,Invoice,Yes
+31,31,Bill of Lading,Yes
+32,32,Customs Form,No
+33,33,Customs Form,Yes
+34,34,Invoice,Yes
+35,35,Invoice,No
+36,36,Bill of Lading,No
+37,37,Invoice,Yes
+38,38,Customs Form,Yes
+39,39,Customs Form,Yes
+40,40,Customs Form,No
+41,41,Customs Form,Yes
+42,42,Customs Form,No
+43,43,Bill of Lading,No
+44,44,Invoice,No
+45,45,Bill of Lading,No
+46,46,Bill of Lading,Yes
+47,47,Customs Form,No
+48,48,Customs Form,Yes
+49,49,Invoice,Yes
+50,50,Bill of Lading,Yes
+51,51,Customs Form,Yes
+52,52,Customs Form,Yes
+53,53,Bill of Lading,Yes
+54,54,Bill of Lading,No
+55,55,Customs Form,No
+56,56,Bill of Lading,Yes
+57,57,Customs Form,No
+58,58,Customs Form,Yes
+59,59,Bill of Lading,Yes
+60,60,Invoice,Yes
+61,61,Customs Form,No
+62,62,Customs Form,Yes
+63,63,Bill of Lading,Yes
+64,64,Customs Form,No
+65,65,Invoice,No
+66,66,Bill of Lading,Yes
+67,67,Bill of Lading,No
+68,68,Customs Form,No
+69,69,Customs Form,Yes
+70,70,Customs Form,Yes
+71,71,Invoice,No
+72,72,Bill of Lading,Yes
+73,73,Bill of Lading,Yes
+74,74,Bill of Lading,No
+75,75,Invoice,Yes
+76,76,Bill of Lading,No
+77,77,Customs Form,No
+78,78,Customs Form,Yes
+79,79,Invoice,Yes
+80,80,Customs Form,No
+81,81,Invoice,Yes
+82,82,Bill of Lading,Yes
+83,83,Invoice,No
+84,84,Customs Form,Yes
+85,85,Invoice,Yes
+86,86,Customs Form,Yes
+87,87,Bill of Lading,Yes
+88,88,Customs Form,No
+89,89,Customs Form,Yes
+90,90,Bill of Lading,No
+91,91,Invoice,Yes
+92,92,Customs Form,Yes
+93,93,Bill of Lading,No
+94,94,Bill of Lading,No
+95,95,Customs Form,Yes
+96,96,Customs Form,Yes
+97,97,Bill of Lading,No
+98,98,Customs Form,Yes
+99,99,Customs Form,No
+100,100,Invoice,Yes
+101,101,Invoice,No
+102,102,Bill of Lading,Yes
+103,103,Customs Form,Yes
+104,104,Bill of Lading,Yes
+105,105,Bill of Lading,Yes
+106,106,Customs Form,No
+107,107,Customs Form,No
+108,108,Bill of Lading,No
+109,109,Bill of Lading,No
+110,110,Bill of Lading,No
+111,111,Customs Form,Yes
+112,112,Bill of Lading,No
+113,113,Customs Form,Yes
+114,114,Customs Form,No
+115,115,Bill of Lading,No
+116,116,Invoice,Yes
+117,117,Invoice,No
+118,118,Customs Form,Yes
+119,119,Invoice,No
+120,120,Bill of Lading,Yes
+121,121,Customs Form,No
+122,122,Customs Form,No
+123,123,Invoice,No
+124,124,Invoice,Yes
+125,125,Customs Form,No
+126,126,Bill of Lading,No
+127,127,Invoice,Yes
+128,128,Bill of Lading,No
+129,129,Invoice,Yes
+130,130,Customs Form,No
+131,131,Invoice,Yes
+132,132,Customs Form,No
+133,133,Customs Form,No
+134,134,Invoice,Yes
+135,135,Customs Form,Yes
+136,136,Bill of Lading,Yes
+137,137,Customs Form,Yes
+138,138,Bill of Lading,Yes
+139,139,Bill of Lading,Yes
+140,140,Customs Form,Yes
+141,141,Customs Form,Yes
+142,142,Invoice,Yes
+143,143,Customs Form,Yes
+144,144,Invoice,No
+145,145,Customs Form,Yes
+146,146,Bill of Lading,Yes
+147,147,Customs Form,Yes
+148,148,Bill of Lading,No
+149,149,Bill of Lading,Yes
+150,150,Customs Form,No
+151,151,Bill of Lading,Yes
+152,152,Bill of Lading,Yes
+153,153,Invoice,No
+154,154,Invoice,Yes
+155,155,Bill of Lading,Yes
+156,156,Bill of Lading,No
+157,157,Customs Form,No
+158,158,Invoice,No
+159,159,Bill of Lading,No
+160,160,Bill of Lading,Yes
+161,161,Customs Form,Yes
+162,162,Bill of Lading,No
+163,163,Bill of Lading,Yes
+164,164,Bill of Lading,Yes
+165,165,Invoice,Yes
+166,166,Bill of Lading,Yes
+167,167,Customs Form,No
+168,168,Customs Form,Yes
+169,169,Bill of Lading,No
+170,170,Bill of Lading,Yes
+171,171,Customs Form,Yes
+172,172,Customs Form,No
+173,173,Invoice,Yes
+174,174,Bill of Lading,Yes
+175,175,Bill of Lading,Yes
+176,176,Customs Form,Yes
+177,177,Invoice,No
+178,178,Bill of Lading,Yes
+179,179,Invoice,No
+180,180,Bill of Lading,No
+181,181,Customs Form,Yes
+182,182,Invoice,Yes
+183,183,Customs Form,Yes
+184,184,Invoice,No
+185,185,Invoice,Yes
+186,186,Bill of Lading,No
+187,187,Bill of Lading,Yes
+188,188,Bill of Lading,Yes
+189,189,Customs Form,Yes
+190,190,Bill of Lading,No
+191,191,Bill of Lading,No
+192,192,Invoice,No
+193,193,Customs Form,No
+194,194,Bill of Lading,Yes
+195,195,Bill of Lading,No
+196,196,Bill of Lading,No
+197,197,Customs Form,Yes
+198,198,Bill of Lading,No
+199,199,Customs Form,Yes
+200,200,Customs Form,No

@@ -1,0 +1,41 @@
+Total Shipments = COUNTROWS(ShipmentInfo)
+
+Total Approved Shipments = CALCULATE(COUNTROWS(ShipmentInfo), ShipmentInfo[ApprovalStatus] = "Approved")
+
+Total Denied Shipments = CALCULATE(COUNTROWS(ShipmentInfo), ShipmentInfo[ApprovalStatus] = "Denied")
+
+Total Shipment Cost Pending = SUM(ShipmentInfo[CostPending])
+
+Average Distance per Shipment = AVERAGE(ShipmentInfo[DistanceKM])
+
+Percentage of Approved Shipments = DIVIDE([Total Approved Shipments], [Total Shipments], 0) * 100
+
+Percentage of Denied Shipments = DIVIDE([Total Denied Shipments], [Total Shipments], 0) * 100
+
+Percentage of Shipments in Transit = 
+    CALCULATE(COUNTROWS(ShipmentInfo), ShipmentInfo[ShipmentStatus] = "In Transit") / [Total Shipments] * 100
+
+Percentage Increase in Shipments = 
+    DIVIDE([Total Shipments] - CALCULATE([Total Shipments], PREVIOUSMONTH(CalendarTable[Date])), 
+           CALCULATE([Total Shipments], PREVIOUSMONTH(CalendarTable[Date])), 0) * 100
+
+Percentage Increase in Cost Pending = 
+    DIVIDE([Total Shipment Cost Pending] - CALCULATE([Total Shipment Cost Pending], PREVIOUSMONTH(CalendarTable[Date])), 
+           CALCULATE([Total Shipment Cost Pending], PREVIOUSMONTH(CalendarTable[Date])), 0) * 100
+
+Total Deliveries = COUNTROWS(DeliveryInfo)
+
+Total Deliveries by Company = CALCULATE(COUNTROWS(DeliveryInfo), DeliveryInfo[DeliveryCompany] = "CompanyName")
+
+Average Delivery Cost = AVERAGE(DeliveryInfo[DeliveryCost])
+
+Average Cost Pending per Shipment = AVERAGE(ShipmentInfo[CostPending])
+
+Total Shipments by Month = 
+    CALCULATE([Total Shipments], 
+    GROUPBY(CalendarTable, CalendarTable[Month], CalendarTable[Year]))
+
+Total Distance Covered = SUM(ShipmentInfo[DistanceKM])
+
+Total Shipment Cost Over Time = 
+    CALCULATE([Total Shipment Cost Pending], DATESYTD(CalendarTable[Date]))

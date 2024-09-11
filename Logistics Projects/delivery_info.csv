@@ -1,0 +1,201 @@
+DeliveryID,ShipmentID,OrderStatus,DeliveryCompany,DeliveryCost
+1,1,In Transit,FedEx,268.55
+2,2,Shipped,USPS,423.19
+3,3,Waiting for Pickup,UPS,271.36
+4,4,Shipped,DHL,134.12
+5,5,Delivered,USPS,93.03
+6,6,Shipped,USPS,87.26
+7,7,Delivered,DHL,285.85
+8,8,Delivered,USPS,68.66
+9,9,In Transit,DHL,257.88
+10,10,Waiting for Pickup,UPS,413.25
+11,11,Waiting for Pickup,FedEx,377.48
+12,12,In Transit,UPS,216.26
+13,13,Delivered,DHL,257.12
+14,14,Delivered,UPS,350.94
+15,15,Delivered,FedEx,215.09
+16,16,Waiting for Pickup,FedEx,312.0
+17,17,Delivered,DHL,217.69
+18,18,Waiting for Pickup,USPS,207.99
+19,19,Shipped,FedEx,183.82
+20,20,Shipped,USPS,200.55
+21,21,In Transit,UPS,394.53
+22,22,Waiting for Pickup,USPS,299.24
+23,23,Shipped,DHL,230.0
+24,24,In Transit,USPS,312.74
+25,25,Waiting for Pickup,USPS,51.73
+26,26,Shipped,DHL,280.24
+27,27,Waiting for Pickup,FedEx,439.67
+28,28,Waiting for Pickup,USPS,349.62
+29,29,In Transit,USPS,474.66
+30,30,Waiting for Pickup,USPS,353.55
+31,31,Waiting for Pickup,DHL,177.16
+32,32,Waiting for Pickup,DHL,388.7
+33,33,Shipped,DHL,452.47
+34,34,Shipped,DHL,281.35
+35,35,Shipped,DHL,116.74
+36,36,Waiting for Pickup,UPS,269.62
+37,37,Waiting for Pickup,UPS,202.01
+38,38,Shipped,FedEx,176.76
+39,39,Waiting for Pickup,UPS,231.9
+40,40,In Transit,UPS,331.02
+41,41,In Transit,UPS,373.53
+42,42,Shipped,USPS,488.05
+43,43,Waiting for Pickup,USPS,490.23
+44,44,In Transit,UPS,267.11
+45,45,Delivered,UPS,70.78
+46,46,Waiting for Pickup,UPS,90.5
+47,47,In Transit,USPS,369.82
+48,48,Waiting for Pickup,UPS,101.97
+49,49,In Transit,DHL,154.74
+50,50,Waiting for Pickup,USPS,454.17
+51,51,Shipped,FedEx,377.24
+52,52,Shipped,USPS,128.33
+53,53,Waiting for Pickup,DHL,258.4
+54,54,In Transit,FedEx,432.89
+55,55,In Transit,DHL,381.33
+56,56,Delivered,USPS,204.18
+57,57,Waiting for Pickup,USPS,303.94
+58,58,Shipped,UPS,65.45
+59,59,Waiting for Pickup,FedEx,120.76
+60,60,Delivered,DHL,177.34
+61,61,Shipped,FedEx,486.96
+62,62,Delivered,DHL,418.85
+63,63,Waiting for Pickup,UPS,167.08
+64,64,Delivered,UPS,346.46
+65,65,Delivered,DHL,174.63
+66,66,Shipped,DHL,218.4
+67,67,Waiting for Pickup,USPS,438.83
+68,68,In Transit,FedEx,214.32
+69,69,In Transit,FedEx,53.62
+70,70,Shipped,DHL,64.41
+71,71,Waiting for Pickup,UPS,362.04
+72,72,In Transit,DHL,322.26
+73,73,In Transit,DHL,460.76
+74,74,In Transit,USPS,180.93
+75,75,Waiting for Pickup,FedEx,323.2
+76,76,Waiting for Pickup,DHL,215.35
+77,77,Delivered,USPS,334.43
+78,78,Waiting for Pickup,FedEx,153.34
+79,79,In Transit,DHL,125.58
+80,80,Waiting for Pickup,UPS,79.39
+81,81,Shipped,UPS,81.76
+82,82,Shipped,FedEx,353.37
+83,83,Shipped,DHL,57.46
+84,84,In Transit,USPS,54.06
+85,85,Delivered,UPS,240.79
+86,86,In Transit,FedEx,230.4
+87,87,Waiting for Pickup,USPS,87.61
+88,88,Delivered,UPS,80.4
+89,89,In Transit,FedEx,204.68
+90,90,In Transit,FedEx,100.13
+91,91,Shipped,USPS,213.87
+92,92,Waiting for Pickup,UPS,233.17
+93,93,Shipped,FedEx,364.33
+94,94,Delivered,DHL,341.9
+95,95,In Transit,USPS,66.02
+96,96,Shipped,UPS,251.73
+97,97,In Transit,DHL,216.68
+98,98,Waiting for Pickup,DHL,435.93
+99,99,Delivered,FedEx,456.92
+100,100,Delivered,DHL,285.93
+101,101,Waiting for Pickup,USPS,211.24
+102,102,Delivered,DHL,186.48
+103,103,Delivered,USPS,474.77
+104,104,Shipped,FedEx,320.06
+105,105,Shipped,USPS,353.97
+106,106,Delivered,USPS,60.46
+107,107,In Transit,DHL,283.1
+108,108,Shipped,FedEx,181.66
+109,109,Waiting for Pickup,USPS,323.11
+110,110,Shipped,UPS,475.0
+111,111,Waiting for Pickup,UPS,432.54
+112,112,Shipped,FedEx,350.77
+113,113,In Transit,USPS,202.84
+114,114,Waiting for Pickup,DHL,73.5
+115,115,In Transit,DHL,253.53
+116,116,Delivered,DHL,340.77
+117,117,Waiting for Pickup,USPS,251.95
+118,118,Shipped,DHL,90.73
+119,119,In Transit,FedEx,480.21
+120,120,Waiting for Pickup,FedEx,484.62
+121,121,Shipped,UPS,217.89
+122,122,In Transit,FedEx,149.38
+123,123,In Transit,UPS,381.65
+124,124,Delivered,DHL,64.74
+125,125,Delivered,USPS,311.61
+126,126,In Transit,USPS,306.03
+127,127,Waiting for Pickup,FedEx,420.92
+128,128,Shipped,UPS,258.31
+129,129,Delivered,FedEx,318.54
+130,130,In Transit,DHL,333.53
+131,131,In Transit,DHL,308.24
+132,132,Shipped,UPS,230.06
+133,133,Shipped,DHL,310.57
+134,134,In Transit,DHL,321.42
+135,135,In Transit,USPS,462.1
+136,136,In Transit,DHL,455.8
+137,137,In Transit,DHL,300.26
+138,138,Shipped,FedEx,492.45
+139,139,Shipped,DHL,386.6
+140,140,In Transit,FedEx,377.36
+141,141,In Transit,FedEx,286.73
+142,142,Delivered,DHL,369.94
+143,143,Delivered,UPS,157.0
+144,144,Waiting for Pickup,FedEx,385.84
+145,145,Shipped,DHL,443.64
+146,146,Waiting for Pickup,FedEx,385.36
+147,147,Waiting for Pickup,FedEx,383.75
+148,148,In Transit,DHL,206.92
+149,149,In Transit,UPS,85.15
+150,150,In Transit,UPS,199.96
+151,151,Shipped,DHL,299.52
+152,152,Waiting for Pickup,UPS,196.36
+153,153,Delivered,UPS,402.72
+154,154,Shipped,DHL,232.11
+155,155,In Transit,DHL,179.61
+156,156,In Transit,DHL,408.71
+157,157,In Transit,UPS,223.4
+158,158,Waiting for Pickup,USPS,58.51
+159,159,Shipped,DHL,156.33
+160,160,Shipped,UPS,287.94
+161,161,Shipped,DHL,372.71
+162,162,In Transit,USPS,384.83
+163,163,Waiting for Pickup,UPS,356.83
+164,164,In Transit,UPS,398.0
+165,165,Waiting for Pickup,UPS,228.56
+166,166,Shipped,UPS,477.27
+167,167,Shipped,USPS,353.61
+168,168,Delivered,USPS,147.68
+169,169,Waiting for Pickup,DHL,426.27
+170,170,In Transit,DHL,403.7
+171,171,Waiting for Pickup,USPS,304.82
+172,172,In Transit,UPS,63.91
+173,173,Delivered,UPS,220.16
+174,174,Delivered,USPS,255.84
+175,175,Shipped,USPS,127.82
+176,176,Delivered,UPS,158.12
+177,177,In Transit,UPS,285.96
+178,178,In Transit,UPS,427.54
+179,179,Waiting for Pickup,FedEx,486.92
+180,180,Delivered,FedEx,130.45
+181,181,Shipped,FedEx,376.83
+182,182,Delivered,DHL,118.23
+183,183,In Transit,UPS,71.38
+184,184,In Transit,DHL,236.52
+185,185,Shipped,FedEx,111.09
+186,186,Shipped,UPS,390.91
+187,187,Shipped,FedEx,386.93
+188,188,Waiting for Pickup,DHL,473.4
+189,189,Delivered,DHL,458.21
+190,190,Delivered,DHL,127.51
+191,191,In Transit,DHL,139.45
+192,192,In Transit,USPS,425.65
+193,193,Shipped,FedEx,405.26
+194,194,In Transit,DHL,286.0
+195,195,Waiting for Pickup,DHL,128.15
+196,196,Shipped,UPS,172.19
+197,197,Delivered,FedEx,329.78
+198,198,Waiting for Pickup,UPS,444.47
+199,199,Shipped,UPS,457.22
+200,200,In Transit,UPS,56.08

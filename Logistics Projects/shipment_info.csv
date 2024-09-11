@@ -1,0 +1,201 @@
+ShipmentID,ShipmentStatus,ApprovalStatus,CostPending,AvgSpeed,DistanceKM
+1,Waiting for Pickup,Denied,4963.3,32.67,476.31
+2,Waiting for Pickup,Denied,2215.39,61.2,106.67
+3,Shipped,Approved,725.71,78.21,427.62
+4,In Transit,Approved,1327.84,79.79,443.87
+5,In Transit,Approved,3566.63,33.45,228.42
+6,Shipped,Denied,2837.49,45.16,618.98
+7,In Transit,Denied,2609.48,32.72,684.64
+8,Shipped,Denied,3055.56,64.48,261.71
+9,Delivered,Approved,2931.16,53.73,697.8
+10,Delivered,Approved,3626.69,32.69,260.88
+11,Shipped,Denied,947.14,50.44,840.36
+12,Shipped,Approved,3954.14,44.63,451.19
+13,Waiting for Pickup,Denied,2423.75,59.98,869.2
+14,In Transit,Denied,2990.05,41.94,911.61
+15,Shipped,Approved,3713.85,39.33,574.09
+16,Waiting for Pickup,Approved,3022.98,58.32,272.22
+17,Delivered,Approved,2853.47,59.34,977.08
+18,Delivered,Approved,4129.24,71.88,12.06
+19,Shipped,Denied,1418.88,35.14,136.79
+20,In Transit,Approved,3439.42,62.57,68.17
+21,Shipped,Denied,965.67,68.61,446.55
+22,Delivered,Approved,1491.03,32.24,195.41
+23,Shipped,Approved,4569.43,75.28,608.03
+24,Waiting for Pickup,Denied,2249.88,69.49,521.09
+25,Delivered,Approved,2178.54,62.4,257.41
+26,Waiting for Pickup,Denied,143.61,74.04,786.72
+27,Shipped,Denied,4700.51,55.23,426.89
+28,In Transit,Approved,3298.76,77.64,408.21
+29,Shipped,Denied,701.59,77.06,939.63
+30,In Transit,Approved,3083.45,79.2,110.99
+31,Delivered,Denied,937.53,55.59,711.09
+32,Waiting for Pickup,Denied,4036.48,61.43,19.04
+33,Shipped,Approved,2126.82,60.82,909.18
+34,Shipped,Approved,3046.29,35.7,70.98
+35,In Transit,Approved,1232.45,58.8,239.61
+36,Shipped,Approved,1107.03,70.67,270.03
+37,Shipped,Denied,705.68,54.86,909.29
+38,In Transit,Approved,2674.34,36.72,892.18
+39,Waiting for Pickup,Approved,3954.11,59.37,226.47
+40,Shipped,Denied,126.14,69.27,317.9
+41,In Transit,Approved,2840.65,63.8,45.81
+42,In Transit,Denied,2624.0,37.86,497.74
+43,In Transit,Denied,129.09,64.14,449.18
+44,Shipped,Denied,4285.89,50.09,818.38
+45,Delivered,Approved,360.98,31.42,976.97
+46,In Transit,Denied,3640.93,39.59,406.76
+47,Shipped,Approved,3264.12,40.87,659.18
+48,Delivered,Approved,4242.16,47.43,641.56
+49,In Transit,Denied,4071.55,72.82,960.55
+50,Waiting for Pickup,Denied,1990.18,48.14,602.39
+51,Shipped,Denied,3191.79,32.03,891.89
+52,In Transit,Approved,427.45,59.54,749.51
+53,In Transit,Approved,103.27,56.02,287.41
+54,Shipped,Denied,2531.47,56.69,124.63
+55,Delivered,Approved,2561.87,54.37,887.85
+56,In Transit,Denied,3428.75,42.59,560.8
+57,Shipped,Denied,531.55,65.93,186.07
+58,Delivered,Approved,3332.1,59.93,74.99
+59,In Transit,Denied,4409.77,60.25,38.1
+60,Waiting for Pickup,Approved,249.9,76.98,37.52
+61,Shipped,Denied,4344.07,50.17,209.44
+62,Shipped,Approved,2018.7,37.87,76.9
+63,Shipped,Approved,3355.65,37.08,548.51
+64,Waiting for Pickup,Approved,2002.0,49.34,494.83
+65,In Transit,Approved,2094.46,57.15,177.9
+66,Delivered,Denied,2657.18,67.24,728.56
+67,Delivered,Denied,854.31,63.28,534.76
+68,Delivered,Approved,582.59,30.3,572.6
+69,Shipped,Approved,1214.87,70.44,562.94
+70,In Transit,Approved,4063.22,41.37,924.37
+71,In Transit,Denied,691.71,61.02,617.3
+72,In Transit,Denied,4871.87,79.54,60.38
+73,Shipped,Denied,3616.67,50.44,998.02
+74,Delivered,Approved,4954.9,45.79,913.84
+75,Waiting for Pickup,Denied,4767.1,64.26,578.29
+76,Waiting for Pickup,Denied,4152.43,44.42,69.31
+77,In Transit,Denied,1230.35,71.96,890.53
+78,Shipped,Approved,2576.3,46.75,450.57
+79,Shipped,Approved,2585.6,75.37,15.0
+80,Waiting for Pickup,Approved,2101.13,47.39,685.24
+81,Waiting for Pickup,Approved,2657.37,76.69,437.21
+82,Delivered,Denied,4404.35,74.57,273.53
+83,Waiting for Pickup,Denied,2740.09,76.91,737.9
+84,Shipped,Approved,4122.28,72.05,916.64
+85,In Transit,Approved,3119.81,73.74,970.53
+86,Delivered,Approved,1061.16,68.74,151.95
+87,Waiting for Pickup,Approved,4074.65,76.22,937.53
+88,Shipped,Denied,1284.98,44.62,114.29
+89,Waiting for Pickup,Approved,628.61,35.66,347.1
+90,Shipped,Denied,4914.31,41.33,130.25
+91,In Transit,Approved,2827.5,33.06,436.41
+92,Waiting for Pickup,Approved,1415.2,55.04,624.76
+93,In Transit,Approved,4431.25,32.75,173.85
+94,Delivered,Denied,3084.49,56.13,405.5
+95,In Transit,Denied,4961.49,42.15,631.62
+96,Waiting for Pickup,Denied,2660.32,53.85,120.09
+97,In Transit,Denied,3971.06,40.96,194.18
+98,Shipped,Approved,1390.41,43.02,374.54
+99,Shipped,Approved,2202.84,66.67,579.8
+100,Delivered,Approved,1125.55,64.67,934.49
+101,In Transit,Denied,378.57,78.87,521.37
+102,Waiting for Pickup,Denied,3402.23,56.64,439.19
+103,Shipped,Approved,448.66,32.02,531.51
+104,Waiting for Pickup,Denied,2145.27,59.02,670.63
+105,In Transit,Denied,1764.78,78.04,618.39
+106,Shipped,Denied,2980.9,56.12,116.22
+107,Shipped,Denied,3705.4,58.85,323.48
+108,Waiting for Pickup,Approved,3996.61,61.81,444.17
+109,Delivered,Denied,1005.51,31.11,904.63
+110,In Transit,Denied,4947.71,52.48,212.45
+111,Delivered,Approved,2161.62,73.94,615.41
+112,In Transit,Approved,1101.09,30.55,299.52
+113,In Transit,Approved,288.97,40.43,511.23
+114,Shipped,Denied,1461.83,49.6,904.16
+115,Waiting for Pickup,Denied,3913.32,30.01,954.2
+116,Shipped,Denied,3198.04,59.31,314.54
+117,In Transit,Approved,2873.17,77.95,734.03
+118,Delivered,Denied,335.13,30.55,400.44
+119,Shipped,Approved,3204.03,55.3,251.42
+120,Waiting for Pickup,Approved,1403.5,40.35,706.44
+121,Shipped,Approved,2536.38,61.86,747.43
+122,Shipped,Approved,3485.39,53.62,966.68
+123,Waiting for Pickup,Approved,1799.7,68.19,547.26
+124,Delivered,Approved,390.47,49.1,146.62
+125,Shipped,Approved,4157.9,35.18,228.1
+126,In Transit,Denied,3108.24,71.18,802.37
+127,In Transit,Approved,4183.25,58.8,547.2
+128,Shipped,Denied,3243.78,65.39,165.72
+129,Delivered,Denied,4855.16,42.8,815.81
+130,Shipped,Denied,4014.32,44.48,727.46
+131,Delivered,Denied,1556.96,31.68,67.56
+132,Shipped,Denied,552.27,78.79,686.05
+133,Waiting for Pickup,Denied,934.02,67.88,482.43
+134,In Transit,Denied,1208.17,47.58,234.66
+135,Shipped,Approved,3484.53,34.22,863.83
+136,In Transit,Denied,2781.13,37.69,346.57
+137,In Transit,Approved,4890.94,58.93,506.77
+138,Shipped,Denied,2966.33,47.8,90.41
+139,Waiting for Pickup,Denied,2600.26,31.31,288.48
+140,Shipped,Approved,4916.43,33.87,391.32
+141,Shipped,Denied,2229.38,63.1,350.95
+142,In Transit,Approved,3505.99,31.14,907.04
+143,Delivered,Denied,3314.0,51.75,868.09
+144,In Transit,Denied,2224.92,77.64,247.38
+145,Waiting for Pickup,Denied,2543.72,43.07,676.0
+146,Delivered,Denied,3194.89,63.89,228.17
+147,Shipped,Denied,4985.31,36.05,302.94
+148,Delivered,Approved,2694.52,39.17,60.85
+149,Delivered,Denied,4227.45,61.36,669.54
+150,In Transit,Approved,4187.42,70.25,933.98
+151,In Transit,Denied,3125.75,37.74,165.0
+152,In Transit,Denied,2090.9,53.38,454.26
+153,Shipped,Approved,1012.78,51.85,795.76
+154,Delivered,Denied,4711.22,69.14,456.12
+155,Waiting for Pickup,Denied,3142.71,38.67,749.98
+156,In Transit,Approved,4402.11,43.43,649.52
+157,Delivered,Denied,3844.95,34.35,159.49
+158,In Transit,Approved,392.33,44.81,843.94
+159,Delivered,Denied,3466.41,32.17,232.25
+160,In Transit,Approved,3445.68,34.09,347.54
+161,Shipped,Approved,610.39,47.75,732.35
+162,Shipped,Denied,977.94,57.76,738.26
+163,Waiting for Pickup,Approved,1964.06,47.85,786.55
+164,Shipped,Approved,3155.24,60.71,491.0
+165,In Transit,Approved,1027.94,41.16,931.32
+166,Shipped,Denied,1356.66,47.63,866.84
+167,Delivered,Approved,721.87,37.8,923.08
+168,Shipped,Denied,3813.84,68.63,862.05
+169,Shipped,Denied,984.97,36.96,73.38
+170,Shipped,Denied,2357.35,38.05,506.02
+171,Waiting for Pickup,Approved,2506.04,55.92,608.31
+172,Waiting for Pickup,Denied,4511.29,71.57,749.61
+173,Shipped,Denied,4267.23,61.37,620.95
+174,Shipped,Approved,538.51,64.87,770.87
+175,Shipped,Denied,2471.6,61.89,410.95
+176,Shipped,Approved,3183.46,49.62,507.83
+177,Waiting for Pickup,Approved,3953.77,75.72,536.5
+178,Delivered,Denied,341.13,62.55,862.06
+179,In Transit,Approved,1187.67,70.01,823.42
+180,In Transit,Denied,3738.78,36.37,768.82
+181,In Transit,Approved,4552.6,64.19,332.74
+182,In Transit,Approved,1949.49,71.96,300.13
+183,In Transit,Approved,2750.33,54.25,225.28
+184,In Transit,Denied,693.18,73.5,296.02
+185,Shipped,Denied,3502.78,34.09,185.58
+186,Shipped,Denied,3265.74,30.29,326.62
+187,Waiting for Pickup,Denied,3530.28,71.89,16.72
+188,Waiting for Pickup,Approved,4551.63,63.4,225.9
+189,Shipped,Denied,4418.13,55.37,264.36
+190,In Transit,Denied,1591.07,30.65,120.76
+191,In Transit,Approved,4929.13,43.9,380.53
+192,Shipped,Approved,869.07,78.89,841.04
+193,Delivered,Approved,3441.16,31.4,302.66
+194,Shipped,Denied,4057.24,74.5,489.53
+195,Waiting for Pickup,Approved,1980.76,58.36,339.63
+196,In Transit,Denied,3276.3,72.66,975.35
+197,Waiting for Pickup,Denied,297.01,31.11,616.27
+198,In Transit,Approved,2438.46,71.04,899.03
+199,In Transit,Approved,371.3,31.24,897.59
+200,Waiting for Pickup,Approved,1905.4,33.65,220.99
