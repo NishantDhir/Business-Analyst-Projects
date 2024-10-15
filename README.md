@@ -28,6 +28,7 @@ Combined set of Csv's imported from MySQL Workbench.
 9. Product Analysis 
 10. Product Strategy in Banking
 11. Logitstics and Supply Chain
+12. Human Resource
 
 ### What is Required?
 - Setting up Python and My SQL Workbench on Windows / Mac.
